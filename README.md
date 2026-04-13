@@ -1,3 +1,5 @@
+**READ THIS FIRST!**
+
 Above, you can see the comparison between the responses I measured using my testbenches and the datasheet responses from major companies.
 
 This is all the testbenches:
