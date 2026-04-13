@@ -1,4 +1,4 @@
-Above, you can see the comparison between the responses I measured using my testbenches and the datasheet responses from major companies.
+Above, you can see the comparison between the responses I measured using my testbenches and the datasheet responses from major companies, and also the picture showing all testbenches I made.
 
 
 To measure one specific characteristic across different op-amps, I only need one testbench.
@@ -11,3 +11,4 @@ Specifically, during the demo day, due to time constraints, I will focus on the 
 
 
 I also have different testbenches and use them to compare amplifiers from various companies with my own designs. If you're interested, we can discuss it further on demo da
+
