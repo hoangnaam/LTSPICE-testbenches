@@ -1,4 +1,7 @@
-Above, you can see the comparison between the responses I measured using my testbenches and the datasheet responses from major companies, and also the picture showing all testbenches I made.
+Above, you can see the comparison between the responses I measured using my testbenches and the datasheet responses from major companies.
+
+This is all the testbenches:
+<img width="949" height="619" alt="Schematics" src="https://github.com/user-attachments/assets/f675ab17-fd26-4429-8f9f-0b7b8fb88a29" />
 
 
 To measure one specific characteristic across different op-amps, I only need one testbench.
